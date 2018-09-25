@@ -1,0 +1,6 @@
+COUNTRY|REGION|POPULATION|STATUS|VISITED|RATING
+USA|Florida|25|hot|2010-05-15|61.34
+New Zealand|Wellington|1|nice|2001-05-15|99.99
+New Zealand|Auckland|2|expensive|2006-07-22|65.89
+USA|New York|25|nice|2004-05-15|89.23
+USA|New York|30|expensive|2012-07-22|72.88
